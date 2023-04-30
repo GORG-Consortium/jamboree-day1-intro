@@ -5,7 +5,7 @@ This is a collection of notebooks to introduce participants to the use of jupyte
 To play with these notebooks, navigate to your user_lab directory:
 
 ```
-cd storage/user_lab/{your_directory}
+cd ~/storage/user_lab/{your_directory}
 ```
 
 And then clone this repository into your directory:  
